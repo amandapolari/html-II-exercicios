@@ -42,3 +42,10 @@
     color: white;
   }
   
+  /* Ajustes para tags de mídia: */
+  img, video {
+    height: 80px;
+  }
+  audio {
+    height: 25px;
+  }
